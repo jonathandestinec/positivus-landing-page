@@ -98,19 +98,19 @@ const page = () => {
 
               {/* Desktop Learn More */}
               <div className="hidden md:flex items-center justify-between w-max md:gap-3.75 gap-2">
-                <Image src="/assets/services/arrowicon.svg" alt="Arrow" width={41} height={41} className="md:w-10.25 w-7.5" />
+                <Image src="/assets/services-photos/arrowicon.svg" alt="Arrow" width={41} height={41} className="md:w-10.25 w-7.5" />
                 <p className="md:text-[20px] text-[14px] font-normal cursor-pointer">Learn more</p>
               </div>
             </div>
 
             {/* Illustration */}
             <div className="w-full mt-6 md:mt-0 flex items-center justify-center">
-              <Image src="/assets/services/illustration.svg" alt="SEO" width={210} height={166.05} className="md:w-52.5 w-50" />
+              <Image src="/assets/services-photos/illustration.svg" alt="SEO" width={210} height={166.05} className="md:w-52.5 w-50" />
             </div>
 
             {/* Mobile Learn More */}
             <div className="md:hidden flex items-center justify-between w-max gap-2 mt-6">
-              <Image src="/assets/services/arrowicon.svg" alt="Arrow" width={41} height={41} className="w-7.5" />
+              <Image src="/assets/services-photos/arrowicon.svg" alt="Arrow" width={41} height={41} className="w-7.5" />
               <p className="text-[14px] font-normal cursor-pointer">Learn more</p>
             </div>
           </div>
@@ -129,19 +129,19 @@ const page = () => {
 
               {/* Desktop Learn More */}
               <div className="hidden md:flex items-center justify-between w-max md:gap-3.75 gap-2">
-                <Image src="/assets/services/arrowicon.svg" alt="Arrow" width={41} height={41} className="md:w-10.25 w-7.5" />
+                <Image src="/assets/services-photos/arrowicon.svg" alt="Arrow" width={41} height={41} className="md:w-10.25 w-7.5" />
                 <p className="md:text-[20px] text-[14px] font-normal cursor-pointer">Learn more</p>
               </div>
             </div>
 
             {/* Illustration */}
             <div className="w-full mt-6 md:mt-0 flex items-center justify-center">
-              <Image src="/assets/services/illustration2.svg" alt="PPC" width={210} height={166.05} className="md:w-52.5 w-50" />
+              <Image src="/assets/services-photos/illustration2.svg" alt="PPC" width={210} height={166.05} className="md:w-52.5 w-50" />
             </div>
 
             {/* Mobile Learn More */}
             <div className="md:hidden flex items-center justify-between w-max gap-2 mt-6">
-              <Image src="/assets/services/arrowicon.svg" alt="Arrow" width={41} height={41} className="w-7.5" />
+              <Image src="/assets/services-photos/arrowicon.svg" alt="Arrow" width={41} height={41} className="w-7.5" />
               <p className="text-[14px] font-normal cursor-pointer">Learn more</p>
             </div>
           </div>
@@ -160,19 +160,19 @@ const page = () => {
 
               {/* Desktop Learn More */}
               <div className="hidden md:flex items-center justify-between w-max md:gap-3.75 gap-2">
-                <Image src="/assets/services/arrowicon2.svg" alt="Arrow" width={41} height={41} className="md:w-10.25 w-7.5" />
+                <Image src="/assets/services-photos/arrowicon2.svg" alt="Arrow" width={41} height={41} className="md:w-10.25 w-7.5" />
                 <p className="md:text-[20px] text-[14px] font-normal cursor-pointer text-white">Learn more</p>
               </div>
             </div>
 
             {/* Illustration */}
             <div className="w-full mt-6 md:mt-0 flex items-center justify-center">
-              <Image src="/assets/services/illustration3.svg" alt="Social Media" width={210} height={166.05} className="md:w-52.5 w-50" />
+              <Image src="/assets/services-photos/illustration3.svg" alt="Social Media" width={210} height={166.05} className="md:w-52.5 w-50" />
             </div>
 
             {/* Mobile Learn More */}
             <div className="md:hidden flex items-center justify-between w-max gap-2 mt-6">
-              <Image src="/assets/services/arrowicon2.svg" alt="Arrow" width={41} height={41} className="w-7.5" />
+              <Image src="/assets/services-photos/arrowicon2.svg" alt="Arrow" width={41} height={41} className="w-7.5" />
               <p className="text-[14px] font-normal cursor-pointer text-white">Learn more</p>
             </div>
           </div>
@@ -191,19 +191,19 @@ const page = () => {
 
               {/* Desktop Learn More */}
               <div className="hidden md:flex items-center justify-between w-max md:gap-3.75 gap-2">
-                <Image src="/assets/services/arrowicon.svg" alt="Arrow" width={41} height={41} className="md:w-10.25 w-7.5" />
+                <Image src="/assets/services-photos/arrowicon.svg" alt="Arrow" width={41} height={41} className="md:w-10.25 w-7.5" />
                 <p className="md:text-[20px] text-[14px] font-normal cursor-pointer">Learn more</p>
               </div>
             </div>
 
             {/* Illustration */}
             <div className="w-full mt-6 md:mt-0 flex items-center justify-center">
-              <Image src="/assets/services/illustration4.svg" alt="Email Marketing" width={210} height={166.05} className="md:w-52.5 w-50" />
+              <Image src="/assets/services-photos/illustration4.svg" alt="Email Marketing" width={210} height={166.05} className="md:w-52.5 w-50" />
             </div>
 
             {/* Mobile Learn More */}
             <div className="md:hidden flex items-center justify-between w-max gap-2 mt-6">
-              <Image src="/assets/services/arrowicon.svg" alt="Arrow" width={41} height={41} className="w-7.5" />
+              <Image src="/assets/services-photos/arrowicon.svg" alt="Arrow" width={41} height={41} className="w-7.5" />
               <p className="text-[14px] font-normal cursor-pointer">Learn more</p>
             </div>
           </div>
@@ -222,19 +222,19 @@ const page = () => {
 
               {/* Desktop Learn More */}
               <div className="hidden md:flex items-center justify-between w-max md:gap-3.75 gap-2">
-                <Image src="/assets/services/arrowicon.svg" alt="Arrow" width={41} height={41} className="md:w-10.25 w-7.5" />
+                <Image src="/assets/services-photos/arrowicon.svg" alt="Arrow" width={41} height={41} className="md:w-10.25 w-7.5" />
                 <p className="md:text-[20px] text-[14px] font-normal cursor-pointer">Learn more</p>
               </div>
             </div>
 
             {/* Illustration */}
             <div className="w-full mt-6 md:mt-0 flex items-center justify-center">
-              <Image src="/assets/services/illustration5.svg" alt="Content Creation" width={210} height={166.05} className="md:w-52.5 w-50" />
+              <Image src="/assets/services-photos/illustration5.svg" alt="Content Creation" width={210} height={166.05} className="md:w-52.5 w-50" />
             </div>
 
             {/* Mobile Learn More */}
             <div className="md:hidden flex items-center justify-between w-max gap-2 mt-6">
-              <Image src="/assets/services/arrowicon.svg" alt="Arrow" width={41} height={41} className="w-7.5" />
+              <Image src="/assets/services-photos/arrowicon.svg" alt="Arrow" width={41} height={41} className="w-7.5" />
               <p className="text-[14px] font-normal cursor-pointer">Learn more</p>
             </div>
           </div>
@@ -253,19 +253,19 @@ const page = () => {
 
               {/* Desktop Learn More */}
               <div className="hidden md:flex items-center justify-between w-max md:gap-3.75 gap-2">
-                <Image src="/assets/services/arrowicon2.svg" alt="Arrow" width={41} height={41} className="md:w-10.25 w-7.5" />
+                <Image src="/assets/services-photos/arrowicon2.svg" alt="Arrow" width={41} height={41} className="md:w-10.25 w-7.5" />
                 <p className="md:text-[20px] text-[14px] font-normal cursor-pointer text-white">Learn more</p>
               </div>
             </div>
 
             {/* Illustration */}
             <div className="w-full mt-6 md:mt-0 flex items-center justify-center">
-              <Image src="/assets/services/illustration6.svg" alt="Analytics" width={210} height={166.05} className="md:w-52.5 w-50" />
+              <Image src="/assets/services-photos/illustration6.svg" alt="Analytics" width={210} height={166.05} className="md:w-52.5 w-50" />
             </div>
 
             {/* Mobile Learn More */}
             <div className="md:hidden flex items-center justify-between w-max gap-2 mt-6">
-              <Image src="/assets/services/arrowicon2.svg" alt="Arrow" width={41} height={41} className="w-7.5" />
+              <Image src="/assets/services-photos/arrowicon2.svg" alt="Arrow" width={41} height={41} className="w-7.5" />
               <p className="text-[14px] font-normal cursor-pointer text-white">Learn more</p>
             </div>
           </div>
